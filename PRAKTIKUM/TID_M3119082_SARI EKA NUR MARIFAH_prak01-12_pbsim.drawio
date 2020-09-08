@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-08T07:43:00.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" version="13.6.6" etag="9BtfIe9KEouIegHFUG_b" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-08T07:44:08.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" version="13.6.6" etag="tREby4D80RRcBoDMm9Xl" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="866" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Login&lt;br&gt;(Masukkan NIM)" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="120" width="140" height="80" as="geometry" />
+          <mxGeometry x="40" y="112.5" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7tOGR0cn1vUcRdxKbRow-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7tOGR0cn1vUcRdxKbRow-3" target="7tOGR0cn1vUcRdxKbRow-5">
           <mxGeometry relative="1" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7tOGR0cn1vUcRdxKbRow-32" value="&lt;span&gt;Validasi Data&lt;/span&gt;&lt;br&gt;&lt;span&gt;(STAFF Perpustakaan)&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="135" width="140" height="50" as="geometry" />
+          <mxGeometry x="230" y="120" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="7tOGR0cn1vUcRdxKbRow-35" value="SELESAI" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="660" width="100" height="60" as="geometry" />
@@ -84,6 +84,12 @@
         </mxCell>
         <mxCell id="7tOGR0cn1vUcRdxKbRow-37" value="Kwitansi" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="415" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7tOGR0cn1vUcRdxKbRow-41" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="375" y="370" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7tOGR0cn1vUcRdxKbRow-42" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="450" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
